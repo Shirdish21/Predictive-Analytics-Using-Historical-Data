@@ -1,0 +1,5 @@
+libraries needed:
+pandas
+numpy
+matplotlib
+scikit-learn
